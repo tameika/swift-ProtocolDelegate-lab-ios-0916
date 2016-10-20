@@ -12,6 +12,8 @@ class EmojiCellTableViewCell: UITableViewCell {
     
     @IBOutlet weak var firstEmojiLabel: UILabel!
     @IBOutlet weak var secondEmojiLabel: UILabel!
+    
+    
 
     override func awakeFromNib() {
         super.awakeFromNib()
